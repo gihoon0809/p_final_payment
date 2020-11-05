@@ -1,0 +1,10 @@
+C:\dev\intensive\pizzalgh\payment\src\main\java\pizzalgh\config\kafka\KafkaProcessor.java
+C:\dev\intensive\pizzalgh\payment\src\main\java\pizzalgh\PaymentRepository.java
+C:\dev\intensive\pizzalgh\payment\src\main\java\pizzalgh\AbstractEvent.java
+C:\dev\intensive\pizzalgh\payment\src\main\java\pizzalgh\PaymentCanceled.java
+C:\dev\intensive\pizzalgh\payment\src\main\java\pizzalgh\Paid.java
+C:\dev\intensive\pizzalgh\payment\src\main\java\pizzalgh\PaymentApplication.java
+C:\dev\intensive\pizzalgh\payment\src\main\java\pizzalgh\OrderCanceled.java
+C:\dev\intensive\pizzalgh\payment\src\main\java\pizzalgh\PaymentController.java
+C:\dev\intensive\pizzalgh\payment\src\main\java\pizzalgh\Payment.java
+C:\dev\intensive\pizzalgh\payment\src\main\java\pizzalgh\PolicyHandler.java
